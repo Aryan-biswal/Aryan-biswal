@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aryan-biswal
 - 👀 I’m interested in programming,Video editing 
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on pthon dev and web development
 - 📫 How to reach me aryanbiswal7@gmail.com
 
 <!---
